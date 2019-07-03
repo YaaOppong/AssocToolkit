@@ -1,2 +1,2 @@
 # AssocToolkit
-Genome association methods implemented in python 3.
+Downstream methods to genomic association analyses implemented in python 3.
